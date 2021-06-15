@@ -57,6 +57,4 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 Once you are done, upload your code to github. Then, send a mail to team@shopster.ai along with the Github link. We will get in touch with you after reviewing your work.
 
-## Got feedback for us?
-
 **Have fun building!** 🚀
